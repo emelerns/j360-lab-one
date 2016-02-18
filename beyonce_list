@@ -1,11 +1,51 @@
+<!DOCTYPE html>
 <html>
 	<head>
 	<meta charset="UTF-8">
-		<title>HOME</title>
+		<title>LISTS</title>
     <link rel="stylesheet" type="text/css"
-      href="beyoncelab.css" />
+      href="css_stylesheet.css" />
+      <style type="text/css">
+      ul {
+      	padding: 15px;}
+      h2 {
+      	position: absolute;
+      	left: 750px;
+      	right: 20px;
+      	top: 300px; }
+      ol {
+      		position: justified;
+      		top: 400px;
+      		width: 200px;
+      		left: 700px; }
+      h1 {
+      	top: 0px;
+      	left: 700px; }
+    </style>
 	</head>
 	<body>
-    	<h1> This is a place holder for the list page </h1>
+	  <ul id='navigation'>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="biography.html">About</a></li>
+		<li><a href="list.html">Albums</a></li>
+		<li><a href="timeline.html">Timeline</a></li>
+		<li><a href="relatedsites.html">Learn More</a></li>
+      </ul>
+    <h1> ALBUMS </h1>
+    <ul>
+    <li><h3>BEYONCE [Platinum Edition]</h3><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A2UJwKSBUz6rtW4QLK74kQu" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></li>
+    <li><h3>4</h3><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A1gIC63gC3B7o7FfpPACZQJ" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></li>
+    <li><h3>I Am. . . Sasha Fierce</h3><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A23Y5wdyP5byMFktZf8AcWU" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></li>
+    <li><h3>B'Day</h3><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A77eZ5eMEh3U0KWricrbevO" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></li>
+    <li><h3>Dangerously In Love</h3><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A6oxVabMIqCMJRYN1GqR3Vf" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></li>
+	</ul>   
+	<h2>Every solo album Beyonce has debuted launched at number one on the Billboard charts.</h2>
+	<ol>
+ <li> Crazy in Love was her first album, produced and collaborated on with now-husband Jay-Z. Hit songs from this album include “Crazy in Love” and “Baby Boy.” </li>
+ <li> No one is perfect. B’Day is all of Beyonce’s lamest works on one album, but at least “Irreplaceable” is still car-jamming worthy.</li>
+ <li> Don’t act like you still don’t know all the words to “Single Ladies” from I Am . . . Sasha Fierce.</li>
+ <li> 4 is the best slumber party album ever: boys-not-allowed, groovy pop and reggae combinations in songs feature classics like “Party” and “Run the World (Girls)”.</li>
+ <li> While 4 is a fun album, I still can’t get over the amazing turnaround of quality, theme, and musical innovation that is this album. Beyonce made her the ultimate artist she is, and me a better feminist. </li>
+    </ol>
     </body>
 </html>
