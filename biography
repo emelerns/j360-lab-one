@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta img="Blonde" photo>
+		<title>ABOUT</title>
+    <link rel="stylesheet" type="text/css"
+      href="css_stylesheet.css" />
+    <style> 
+    h1 {
+    	left: 830px;}
+	image {
+   	right: 900px; }
+   	top: 100 px;
+    </style>
+	</head>
+	<body>
+	   <ul id='navigation'>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="biography.html">About</a></li>
+		<li><a href="list.html">Albums</a></li>
+		<li><a href="timeline.html">Timeline</a></li>
+		<li><a href="relatedsites.html">Learn More</a></li>
+ 	   </ul>  
+ 	<img src="Beyonce2.jpg" height="300" length="500" />
+	 <h1> ABOUT </h1>
+    <p> Beyonce Knowles-Carter is a Huston-born R&B singer, songwriter, dancer, performer, producer, business owner, and actress. She is well-known for her work as the lead singer of the 90s group Destiney’s Child as well as her solo work. 
+She is married to rapper and producer Jay-Z, with whom she has a daughter named Blue Ivy. 
+While Beyonce has been a multi-million dollar recording artist for years, she most recently made waves in the social justice and music spheres in 2013 after debuting her self-titled album. Beyonce was a non-advertised, visual album discussing themes rarely discussed in rap and R&B before (particularly for female artists), such as eating disorders, postpartum depression, feminism, marriage problems, and discrimination in the recording business. After much success following the silent drop of Beyonce, she released a new single and music video unexpectedly in February 2016 titled “Formation,” which discuses Beyonce’s personal facets of blackness and her political stances regarding aggressions against the culture. 
+This was also the second album Beyonce wrote, produced, and directed under her own company, Parkwood Entertainment.
+Beyonce has also played supporting roles in movies such as “Austin Powers: Goldmember” and “Dreamgirls.” Her net worth is $450 million.</p>
+    </body>
+</html>
