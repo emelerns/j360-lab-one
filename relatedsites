@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+		<title>RELATED</title>
+    <link rel="stylesheet" type="text/css"
+      href="css_stylesheet.css" />
+    <meta img="Family" photo>
+       <style>
+    h1 {
+    	left: 910px; }
+    image {
+   	left: 900px; }
+   	top: 200 px;
+    </style>
+  	</head>
+	<body>
+	  <ul id="navigation">
+		<li><a href="index.html">Home</a></li>
+		<li><a href="biography.html">About</a></li>
+		<li><a href="list.html">Albums</a></li>
+		<li><a href="timeline.html">Timeline</a></li>
+		<li><a href="relatedsites.html">Learn More</a></li>
+      </ul>
+    	<img src="Beyonce5.jpg" height="500" length="300" />
+
+      <h1> MORE </h1>
+      <p> Learn more about Beyonce and check out her latest work.</p>
+      <ul>
+     	 <li> <a href=www.beyonce.com> Beyonce's fan website </a></li>
+      	<li> <a href=en.wikipedia.org/wiki/Beyonce> Beyonce's Wikipedia article</a></li>
+	  	<li> <a href=https://www.youtube.com/watch?v=L_Hgh7sPDLM> Super Bowl 50 Halftime Performance</a></li>
+	 	 <li><a href=https://vimeo.com/154783794>Formation music video</a></li>
+    	</ul>
+    </body>
+</html>
